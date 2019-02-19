@@ -34,6 +34,7 @@ Mexico: Baja California, Sonora, Chihuahua, Coahuila, Nuevo León and Tamaulipas
 United States: California, Nevada, Utah, Wyoming, Arizona, Colorado, New Mexico, Kansas, Oklahoma, Texas, Arkansas, Louisiana and Florida
 
 Twentieth and twenty-first centuries (1900-Present):
+
 Includes projects from the cities and counties located along the current division line established in 1848.
 Mexico: Baja California, Sonora, Chihuahua, Coahuila, Nuevo León and Tamaulipas
 United States: California, Arizona, New Mexico and Texas
