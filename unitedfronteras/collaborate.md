@@ -13,10 +13,10 @@ Projects need to have a digital component, either presently active or inactive. 
 
 Please let us know of people interested in working on Phase 2, the Mexico-Guatemala borderland region, who would like to engage with the project in the near future. Also, if you know people who have projects of this borderland region, please include their name and email or link.    
 
-Contact information: unitedfronteras@gmail.com
+-Contact information: unitedfronteras@gmail.com
 
 
-Protocols
+PROTOLOCOLS
 
 Our consideration of projects relies on our Vision, which encompasses projects that focus on the designated time periods, from 1800 to the present. The formats in consideration are: digital documentation, activism, mapping, blogs, podcast/video channel, etc. The projects or pages can be active or inactive.
 
