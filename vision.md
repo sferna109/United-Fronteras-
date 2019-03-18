@@ -49,4 +49,4 @@ The core values of **United Fronteras** are principles that guide our mission, v
 •Creation of a Digital Borderland Community
 
 
-*This is a living Mission Statement that will evolve as the project continues to develop*
+  *This is a living Mission Statement that will evolve as the project continues to develop

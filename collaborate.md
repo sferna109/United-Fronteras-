@@ -4,7 +4,7 @@ title: Collaborate
 permalink: /collaborate/
 ---
 
-##Projects to include
+**Projects to include**
 
 Please help us grow our database by including projects that work with material related to the U.S.-Mexico borderlands from 1800 to the present.
 
@@ -16,7 +16,7 @@ Projects need to have a digital component, either presently active or inactive.
 
 • Inactive: include the title and any information that can help us trace the project.
 
-##PLEASE SEE PROTOCOL for more details
+**PLEASE SEE PROTOCOL for more details**
 
 Please let us know of people interested in working on Phase 2, the Mexico-Guatemala borderland region, who would like to engage with the project in the near future. Also, if you know people who have projects of this borderland region, please include their name and email or link.    
 
