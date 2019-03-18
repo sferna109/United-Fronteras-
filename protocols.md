@@ -23,4 +23,4 @@ Includes projects from the cities and counties located along the current divisio
 
 • Mexico: Baja California, Sonora, Chihuahua, Coahuila, Nuevo León and Tamaulipas
 
-• United States: California, Arizona, New Mexico and Texas</li>
+• United States: California, Arizona, New Mexico and Texas
