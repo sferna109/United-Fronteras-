@@ -3,6 +3,7 @@ layout: page
 title: Collaborate
 permalink: /collaborate/
 ---
+
 ## Projects to include
 
 Please help us grow our database by including projects that work with material related to the U.S.-Mexico borderlands from 1800 to the present.
@@ -11,17 +12,15 @@ This includes all states from the U.S. Southwest (California, Arizona, New Mexic
 
 Projects need to have a digital component, either presently active or inactive.
 
-<ul>
-<li>Active Projects: include the title and a link to the project.</li>
+- Active Projects: include the title and a link to the project.
+- Inactive: include the title and any information that can help us trace the project.
 
-<li>Inactive: include the title and any information that can help us trace the project.</li>
-</ul>
-<h1>PLEASE SEE PROTOCOL for more details.</h1>
+**Please see protocols for more details**
 
-Please let us know of people interested in working on Phase 2, the Mexico-Central America (Guatemala-Belize-Honduras-El Salvador) borderlands region, who would like to engage with the project in the near future. Also, if you know people who have projects of this borderland region, please include their name and email or link.    
+Please let us know of people interested in working on Phase 2, the Mexico-Guatemala borderland region, who would like to engage with the project in the near future. Also, if you know people who have projects of this borderland region, please include their name and email or link.    
 
-<h1>Contact information:</h1>
+**Contact information:**
 
 unitedfronteras@gmail.com
 
-#unitedfronteras #borderlandsDH #fronterasHD
+\#unitedfronteras \#borderlandsDH \#fronterasHD
