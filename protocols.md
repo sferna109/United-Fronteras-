@@ -8,7 +8,7 @@ Our consideration of projects relies on our Vision, which encompasses projects t
 
 ## Definition of the U.S.-Mexico Borderlands
 
-##Nineteenth Century (1800-1899):
+**Nineteenth Century (1800-1899):**
 
 During the nineteenth century, Spain acquired various territories that were part of the Spanish borderland; this period includes projects of the following states:
 
@@ -17,7 +17,7 @@ During the nineteenth century, Spain acquired various territories that were part
 • United States: California, Nevada, Utah, Wyoming, Arizona, Colorado, New Mexico, Kansas, Oklahoma, Texas, Arkansas, Louisiana and Florida
 
 
-##Twentieth and twenty-first centuries (1900-Present):
+**Twentieth and twenty-first centuries (1900-Present):**
 
 Includes projects from the cities and counties located along the current division line established in 1848.
 
