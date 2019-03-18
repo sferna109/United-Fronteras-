@@ -4,11 +4,11 @@ title: Team
 permalink: /team/
 ---
 
-##Meet the team: Who we are?
+## Meet the team: Who we are?
 
 We are Digital Humanities scholars from various disciplines and universities. The team is composed mostly of women and border natives from various regions of the Mexico-U.S. border; the few who are not border natives have experienced this borderland, particularly and closely, through their lived experiences with (im)migration procedures and/or in their research.
 
-##Phase 1 (Mexico-U.S. Borderlands)
+**Phase 1 (Mexico-U.S. Borderlands)**
 
 • Carolina Alonso, Assistant Professor, Borders and Languages and Gender and Sexuality Studies, Fort Lewis College
 
@@ -32,6 +32,7 @@ We are Digital Humanities scholars from various disciplines and universities. Th
 
 
 *Credits in the narrative process:*
+
 •Vannessa Falcón Orta, Ph.D. Candidate in Education, San Diego State University & Claremont Graduate University
 
 •Isis Campos, Ph.D. Candidate, Hispanic Studies, University of Houston
