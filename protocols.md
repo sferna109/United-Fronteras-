@@ -9,15 +9,14 @@ Our consideration of projects relies on our Vision, which encompasses projects t
 ## Definition of the U.S.-Mexico Borderlands
 
 **Pre-colonial Times**
-Territory from the nineteenth, twentieth and twenty-first centuries. Includes the states above.
-
-**Nineteenth Century (1800-1899):**
-
-During the nineteenth century, Spain acquired various territories that were part of the Spanish borderland; this period includes projects of the following states:
+Native lands from the following states: 
 
 - Mexico: Baja California, Sonora, Chihuahua, Coahuila, Nuevo León and Tamaulipas
 - United States: California, Nevada, Utah, Wyoming, Arizona, Colorado, New Mexico, Kansas, Oklahoma, Texas, Arkansas, Louisiana and Florida
 
+**Nineteenth Century (1800-1899):**
+
+During the nineteenth century, Spain acquired various territories that were part of the Spanish borderland. Refer to the states above.
 
 **Twentieth and twenty-first centuries (1900-Present):**
 
