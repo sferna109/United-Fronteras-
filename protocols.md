@@ -4,10 +4,12 @@ title: Protocols
 permalink: /protocols/
 ---
 
-Our consideration of projects relies on our Vision, which encompasses projects that focus on the designated time periods, from 1800 to the present. The formats in consideration are: digital documentation, activism, mapping, blogs, podcast/video channel, etc. The projects or pages can be active or inactive.
+Our consideration of projects relies on our Vision, which encompasses projects that focus on the designated time periods, from pre-colonial times to the present. The formats in consideration are: digital documentation, activism, mapping, blogs, podcast/video channel, etc. The projects or pages can be active or inactive.
 
 ## Definition of the U.S.-Mexico Borderlands
 
+**Pre-colonial Times**
+Territory from the nineteenth, twentieth and twenty-first centuries. Includes the states above.
 
 **Nineteenth Century (1800-1899):**
 
@@ -23,4 +25,3 @@ Includes projects from the cities and counties located along the current divisio
 
 - Mexico: Baja California, Sonora, Chihuahua, Coahuila, Nuevo León and Tamaulipas
 - United States: California, Arizona, New Mexico and Texas
-
