@@ -3,6 +3,14 @@ layout: default
 ---
 
 <div class="home">
+
+<!-- Fijense como manejo la lógica de lenguajes aquí -->
+
+{% if site.lang == "es" %}
+  <p>¡Bienvenidos!</p>
+{% elsif site.lang == "en" %}
   <p>Welcome!</p>
+{% endif %}
+
 <img src="\images\logo.jpg" width="2000" height="600">
 </div>

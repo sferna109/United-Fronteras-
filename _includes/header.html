@@ -24,6 +24,18 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+          <!-- Este link abajo es dinamico basado en que lengua esta activa en ese momento -->
+
+    {% if site.lang == "es" %}
+      {% capture link1 %}{{ site.baseurl_root }}{{ page.url}}{% endcapture %}
+  <a href="{{ link1 }}" >{% t global.english %}</a>
+    {% elsif site.lang == "en" %}
+      {% capture link2 %}{{ site.baseurl_root }}/es{{ page.url  }}{% endcapture %}
+  <a href="{{ link2 }}" >{% t global.spanish %}</a>
+    {% endif %}
+
+    <!-- Aqui se acaba el link que creé -->
+
         </div>
       </nav>
     {%- endif -%}
