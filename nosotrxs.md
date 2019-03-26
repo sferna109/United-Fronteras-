@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Nosotrxs
-permalink: /nosotrxs/
+title: Us
+permalink: /us/
 ---
 ## Goals
 

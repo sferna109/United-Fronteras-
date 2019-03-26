@@ -8,6 +8,7 @@ permalink: /colabora/
 
 Ayúdanos a desarrollar nuestra base de datos sumando proyectos que contengan material relacionado a las
 zonas fronterizas entre Estados Unidos y México desde tiempos precoloniales hasta la actualidad.
+
 Esto incluye todos los estados del suroeste estadounidense (California, Arizona, Nuevo México y Texas) y
 otros estados que estuvieron bajo el poder de la colonia española durante el siglo XIX (Nevada, Utah,
 Wyoming, Colorado, Kansas, Oklahoma, Arkansas, Louisiana y Florida) y todos los estados del noreste
