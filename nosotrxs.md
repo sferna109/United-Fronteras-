@@ -23,6 +23,7 @@ The core values of *United Fronteras* are principles that guide our mission, vis
 
 - Collaboration
 - Interdisciplinarity
+- Feminist Practices
 - Non-hierarchical Leadership
 - Transnational Alliances
 - Transfronteriza Consciousness
