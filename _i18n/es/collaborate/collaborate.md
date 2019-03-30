@@ -13,7 +13,8 @@ mexicano (Baja California, Sonora, Chihuahua, Coahuila, Nuevo León y Tamaulipas
 Los proyectos deben tener un componente digital y pueden estar activos o inactivos.
 - Si están activos, por favor incluye el título y el enlace al proyecto.
 - Si están inactivos, incluye el título y cualquier información que pueda ayudarnos a ubicar el proyecto.
-<iframe src="https://goo.gl/forms/mWNvJbvqC0lTPnCv1" width="1000" height="500" border="10"></iframe>
+
+<iframe src="https://goo.gl/forms/mWNvJbvqC0lTPnCv1" width="100%" height="500" border="10"></iframe>
 
 **Por favor, revisa nuestro PROTOCOLO para más detalles.**
 

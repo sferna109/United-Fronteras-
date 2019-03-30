@@ -1,7 +1,7 @@
 ---
 layout: page
 title: titles.collaborate
-sidebar: True
+author: Annette
 permalink: /collaborate/
 ---
 

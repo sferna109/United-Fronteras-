@@ -1,7 +1,7 @@
 ---
 layout: page
 title: titles.nosotrxs
-sidebar: True
+author: Rubria
 permalink: /nosotrxs/
 ---
 

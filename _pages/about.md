@@ -1,7 +1,7 @@
 ---
 layout: page
 title: titles.about
-sidebar: True
+author: Sylvia
 permalink: /about/
 ---
 

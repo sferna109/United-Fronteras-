@@ -1,7 +1,7 @@
 ---
 layout: page
 title: titles.protocols
-sidebar: True
+author: Alex
 permalink: /protocols/
 ---
 
