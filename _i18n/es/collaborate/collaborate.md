@@ -1,9 +1,3 @@
----
-layout: page
-title: Colabora
-permalink: /colabora/
----
-
 ## Proyectos a incluir
 
 Ayúdanos a desarrollar nuestra base de datos sumando proyectos que contengan material relacionado a las

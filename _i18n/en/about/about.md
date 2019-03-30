@@ -1,9 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
 ## Objectives
 
 The mission of this project is to bring together active and inactive works that leverage digital components to document the borderlands from multiple perspectives (literature, archives, art, oral histories, music, among others) from pre-colonial times to the twenty-first century. The projects are featured through a digital map and various visualizations that offer audiences a unique opportunity to meaningfully engage in the multi-dimensional layers of border spaces through multi-disciplinary, institutional, community-based, and individual collaborations. This platform also establishes and maintains a digital record of projects that encompass the borderlands.

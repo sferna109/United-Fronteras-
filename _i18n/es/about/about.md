@@ -1,9 +1,3 @@
----
-layout: page
-title: Acerca de
-permalink: /acercade/
----
-
 ## Objectivos
 
 La misión de *United Fronteras* es reunir proyectos activos e inactivos que usen al menos un componente 

@@ -1,9 +1,3 @@
----
-layout: page
-title: Protocolos
-permalink: /protocolos/
----
-
 De acuerdo con nuestra Visión, consideramos proyectos  que se centran en los períodos designados desde 
 1800 hasta el presente. Los formatos a incluir son: documentación digital, activismo, cartografía,
 blogs, podcasts/canales de video, etc. Estas plataformas pueden estar activas o inactivas.

@@ -1,9 +1,3 @@
----
-layout: page
-title: Protocols
-permalink: /protocols/
----
-
 Our consideration of projects relies on our Vision, which encompasses projects that focus on the
 designated time periods, from pre-colonial times to the present. The formats in consideration are:
 digital documentation, activism, mapping, blogs, podcast/video channel, etc. The projects or pages can

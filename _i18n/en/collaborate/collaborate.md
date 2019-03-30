@@ -1,9 +1,3 @@
----
-layout: page
-title: Collaborate
-permalink: /collaborate/
----
-
 ## Projects to include
 
 Please help us grow our database by including projects that work with material related to the U.S.-Mexico borderlands from pre-colonial times to the present.

@@ -1,8 +1,3 @@
----
-layout: page
-title: Us
-permalink: /us/
----
 ## Goals
 
 The long-term goal of *United Fronteras* is to engage with borderlands around the world to compare the experiences of these regions, bringing forward perspectives that oftentimes contradict the sentiments of division that are frequently influenced and represented by those in power. By engaging with this project, Humanities scholars are learning digital humanities practices through their research. This will prepare scholars to use both research and digital platforms/tools as new forms of social interventions to:

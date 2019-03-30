@@ -14,5 +14,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+# The content
+include: ["_pages"]
+
 languages: ["en", "es"]
 exclude_from_localizations: ["assets", "images"]

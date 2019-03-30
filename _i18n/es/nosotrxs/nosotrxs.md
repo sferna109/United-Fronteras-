@@ -1,9 +1,3 @@
----
-layout: page
-title: Nosotrxs
-permalink: /nosotrxs/
----
-
 ## Misión
 
 El objetivo a largo plazo de *United Fronteras* consiste en abordar las zonas fronterizas de todo el
