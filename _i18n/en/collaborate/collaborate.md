@@ -19,7 +19,6 @@ IF YOUR HAVE INFORMATION TO SHARE WITH US PLEASE FILL OUT THIS FORM:
 
 -----------------------------------------------------------------------------------------------------
 
-RUBRIA
 
 Please let us know of people interested in working on Phase 2, the Central America (Southern Mexico, Guatemala, Belize, Honduras, El Salvador) borderlands region, and would like to engage with the project in the near future. Also, if you know people who have projects of this borderlands region, please include their name and email or link.    
 
