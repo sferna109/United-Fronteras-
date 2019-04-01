@@ -20,6 +20,7 @@ SI TIENES INFORMACIÓN QUE COMPARTIR, POR FAVOR LLENA EL SIGUIENTE FORMULARIO:
 
 <iframe src="https://goo.gl/forms/mWNvJbvqC0lTPnCv1" width="100%" height="500" border="10"></iframe>
 
+---------------------------------------------------------------------------------------------------
 
 Avísanos si conoces a personas interesadas en trabajar en la Fase 2 de esta iniciativa y que quieran
 involucrarse con el proyecto en un futuro cercano. La fase dos versará sobre la regiones fronterizas de
