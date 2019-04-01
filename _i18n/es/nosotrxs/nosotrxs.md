@@ -51,8 +51,11 @@ Lewis College
 - **Maira E. Álvarez**, Candidata doctoral, Estudios Hispánicos, Universidad de Houston
 - **Sylvia Fernández Quintanilla**, Candidata doctoral, Estudios Hispánicos, Universidad de Houston
 - **Patricia Flores-Hutson**, Candidata doctoral, University of Texas at El Paso
+![Alex Gil](/images/alexpic.jpg "Alex Gil")
 - **Alex Gil**, Bibliotecario digital, Universidad de Columbia
+![Laura Gonzalez](/images/laurapic.jpg "Laura Gonzalez")
 - **Laura Gonzales**, Profesora asistente, Departamento de Inglés, University of Texas at El Paso
+![Rubria Rocha](/images/rubriapic.jpg "Rubria Rocha")
 - **Rubria Rocha**, Candidata doctoral, Estudios Hispánicos, Universidad Texas A & M
 - **Verónica Romero**, Estudiante doctoral, Estudios Hispánicos, Universidad de Houston
 - **Annette Zapata**, Candidata doctoral, Estudios Hispánicos, Universidad de Houston
