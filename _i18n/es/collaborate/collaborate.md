@@ -22,7 +22,6 @@ SI TIENES INFORMACIÓN QUE COMPARTIR, POR FAVOR LLENA EL SIGUIENTE FORMULARIO:
 
 ---------------------------------------------------------------------------------------------------
 
-RUBRIA ROCHA DE LUNA
 
 Avísanos si conoces a personas interesadas en trabajar en la Fase 2 de esta iniciativa y que quieran
 involucrarse con el proyecto en un futuro cercano. La fase dos versará sobre la regiones fronterizas de
