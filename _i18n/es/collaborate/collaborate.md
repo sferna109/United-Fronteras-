@@ -16,7 +16,7 @@ Los proyectos deben tener un componente digital y pueden estar activos o inactiv
 
 **Por favor, revisa nuestro PROTOCOLO para más detalles.**
 
-SI TIENES INFORMACIÓN QUE COMPARTIR, POR FAVOR LLENA EL SIGUIENTE FORMULARIO:
+SI TIENE INFORMACIÓN QUE COMPARTIR, POR FAVOR LLENE EL SIGUIENTE FORMULARIO:
 
 <iframe src="https://goo.gl/forms/mWNvJbvqC0lTPnCv1" width="100%" height="500" border="10"></iframe>
 

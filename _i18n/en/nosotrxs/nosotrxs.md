@@ -35,11 +35,11 @@ We are Digital Humanities scholars from various disciplines and universities. Th
 
 ### Phase 1 (Mexico-U.S. Borderlands)
 
-- **Maira E. Álvarez**, Ph.D. Candidate, Hispanic Studies, University of Houston
 - **Sylvia Fernández Quintanilla**, Ph.D. Candidate, Hispanic Studies, University of Houston
 - **Patricia Flores-Hutson**, Ph.D. Candidate, University of Texas at El Paso
 
 ![Carolina Alonso](/images/caropic.jpg "Carolina Alonso") | **Carolina Alonso**, Assistant Professor, Borders and Languages and Gender and Sexuality Studies, Fort Lewis College
+![Maira E. Álvarez](/images/mairapic.jpg "Maira E. Álvarez") | **Maira E. Álvarez**, Ph.D. Candidate, Hispanic Studies, University of Houston
 ![Alex Gil](/images/alexpic.jpg "Alex Gil") | **Alex Gil**, Digital Scholarship Librarian, Columbia University
 ![Laura Gonzales](/images/laurapic.jpg "Laura Gonzales") | **Laura Gonzales**, Assistant Professor, English Department, University of Texas at El Paso
 ![Rubria Rocha](/images/rubriapic.jpg "Rubria Rocha") | **Rubria Rocha de Luna**, Ph.D. Candidate, Hispanic Studies Texas A&M University

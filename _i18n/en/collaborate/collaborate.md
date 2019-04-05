@@ -13,7 +13,7 @@ Projects need to have a digital component, either presently active or inactive.
 
 **Please see protocols for more details**
 
-IF YOUR HAVE INFORMATION TO SHARE WITH US PLEASE FILL OUT THIS FORM:
+IF YOU HAVE INFORMATION TO SHARE WITH US PLEASE FILL OUT THIS FORM:
 
 <iframe src="https://goo.gl/forms/mWNvJbvqC0lTPnCv1" width="100%" height="500" border="10"></iframe>
 
