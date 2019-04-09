@@ -55,8 +55,7 @@ procesos migratorios y/o investigación.
 ![Laura Gonzales](/images/laurapic.jpg "Laura Gonzales") | **Laura Gonzales**, Assistant Professor, English Department, University of Texas at El Paso
 ![Rubria Rocha](/images/rubriapic.jpg "Rubria Rocha") | **Rubria Rocha de Luna**, Ph.D. Candidate, Hispanic Studies Texas A&M University
 ![Verónica Romero](/images/veropic.jpg "Verónica Romero") | **Verónica Romero**, Ph.D. Student, Hispanic Studies University of Houston
-
-- **Annette Zapata**, Ph.D. Candidate, Hispanic Studies, University of Houston
+![Annette M. Zapata](/images/annettepic.jpg "Annette M. Zapata") | **Annette M. Zapata**, Ph.D. Candidate, Hispanic Studies, University of Houston
 
 Contribuidores:
 
