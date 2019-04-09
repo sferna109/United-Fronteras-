@@ -46,11 +46,9 @@ procesos migratorios y/o investigación.
 
 ## Primera fase (Frontera México-Estados Unidos)
 
-- **Sylvia Fernández Quintanilla**, Ph.D. Candidate, Hispanic Studies, University of Houston
-- **Patricia Flores-Hutson**, Ph.D. Candidate, University of Texas at El Paso
-
 ![Carolina Alonso](/images/caropic.jpg "Carolina Alonso") | **Carolina Alonso**, Assistant Professor, Borders and Languages and Gender and Sexuality Studies, Fort Lewis College
 ![Maira E. Álvarez](/images/mairapic.jpg "Maira E. Álvarez") | **Maira E. Álvarez**, Ph.D. Candidate, Hispanic Studies, University of Houston
+![Sylvia Fernández Quintanilla](/images/sylviapic.jpg "Sylvia Fernández Quintanilla") | **Sylvia Fernández Quintanilla**, Ph.D. Candidate, Hispanic Studies, University of Houston
 ![Alex Gil](/images/alexpic.jpg "Alex Gil") | **Alex Gil**, Digital Scholarship Librarian, Columbia University
 ![Laura Gonzales](/images/laurapic.jpg "Laura Gonzales") | **Laura Gonzales**, Assistant Professor, English Department, University of Texas at El Paso
 ![Rubria Rocha](/images/rubriapic.jpg "Rubria Rocha") | **Rubria Rocha de Luna**, Ph.D. Candidate, Hispanic Studies Texas A&M University
@@ -59,8 +57,7 @@ procesos migratorios y/o investigación.
 
 Contribuidores:
 
-- **Estefanía Castañeda Perez**, Estudiante doctoral, becaria predoctoral de la Fundación Ford y de la
-Fundación de Ciencias Naturales, Universidad de California en Los Ángeles
-- **Isis Campos**, Candidata doctoral, Estudios Hispánicos, Universidad de Houston
-- **Vannessa Falcón Orta**, Candidata doctoral, Educación, Universidad del Estado de San Diego y
-Claremont Graduate University  
+- **Isis Campos**, Ph.D. Candidate, Hispanic Studies, University of Houston
+- **Estefanía Castañeda Perez**, Ph.D. Student, Ford Foundation and Natural Science Foundation Predoctoral Fellow, University of California at Los Angeles
+- **Vannessa Falcón Orta**, Ph.D. Candidate in Education, San Diego State University & Claremont Graduate University
+- **Patricia Flores-Hutson**, Ph.D. Candidate, University of Texas at El Paso 
