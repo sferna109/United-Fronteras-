@@ -4,7 +4,8 @@ IF YOU HAVE INFORMATION TO SHARE WITH US PLEASE FILL OUT THIS FORM:
 
 <iframe src="https://goo.gl/forms/mWNvJbvqC0lTPnCv1" width="100%" height="500" border="10"></iframe>
 
-
+<br>
+<br>
 Please help us grow our database by including projects that work with material related to the U.S.-Mexico borderlands from pre-colonial times to the present.
 
 Our consideration of projects relies on our Vision, which encompasses projects that focus on the
@@ -41,6 +42,7 @@ Includes projects from the cities and counties located along the current divisio
 *Indigenous work can range from pre-colonial times to the present*
 
 -----------------------------------------------------------------------------------------------------
+<br>
 **Phase Two**
 
 Please let us know of people interested in working on Phase 2, the Central America (Southern Mexico, Guatemala, Belize, Honduras, El Salvador) borderlands region, and would like to engage with the project in the near future. Also, if you know people who have projects of this borderlands region, please include their name and email or link.    

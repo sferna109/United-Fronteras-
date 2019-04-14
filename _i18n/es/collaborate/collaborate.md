@@ -4,7 +4,8 @@ SI TIENE INFORMACIÓN QUE COMPARTIR, POR FAVOR LLENE EL SIGUIENTE FORMULARIO:
 
 <iframe src="https://goo.gl/forms/mWNvJbvqC0lTPnCv1" width="100%" height="500" border="10"></iframe>
 
-
+<br>
+<br>
 Ayúdanos a desarrollar nuestra base de datos sumando proyectos que contengan material relacionado a las
 zonas fronterizas entre Estados Unidos y México desde tiempos precoloniales hasta la actualidad.
 
@@ -42,6 +43,7 @@ establecida a partir de 1848.
 *Los trabajos de comunidades indígenas cubren desde los tiempos precoloniales hasta el presente*
 
 ---------------------------------------------------------------------------------------------------
+<br>
 **Fase dos**
 
 Avísanos si conoces a personas interesadas en trabajar en la Fase 2 de esta iniciativa y que quieran
