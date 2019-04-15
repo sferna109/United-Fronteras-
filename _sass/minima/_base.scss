@@ -1,8 +1,9 @@
 /**
  * Reset some basic elements
  */
+@font-face {font-family: "Anton"; src: url(https://fonts.googleapis.com/css?family=Anton);}
 body {
-  font-family: Helvetica;
+  font-family: 'Anton', sans-serif;
   font-size: 20px;
 }
 body, h1, h2, h3, h4, h5, h6,
